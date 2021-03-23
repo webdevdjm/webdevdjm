@@ -2,7 +2,7 @@
 
 ## Hi there and welcome to my Github page 👋
 
-My name is David and I'm a web developer from Boston, MA.
+My name is David and I'm a web developer from Worcester, MA.
 
 ---
 
