@@ -1,4 +1,4 @@
-<img src="text-logo.png" alt="banner" />
+
 
 ## Hi there and welcome to my Github page 👋
 
