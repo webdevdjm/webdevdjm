@@ -1,6 +1,8 @@
 <img src="text-logo.png" alt="banner" />
 
-## Hi there and welcome to my Github page 👋
+### Hi there and welcome to my Github page 👋
+
+My name is David and I'm a web developer from Boston, MA.
 
 <!--
 **webdevdjm/webdevdjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
